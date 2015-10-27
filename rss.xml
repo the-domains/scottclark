@@ -4,7 +4,7 @@
         <description><![CDATA[Scott Clark - Design & Digital Creative]]></description>
         <link>https://thegrid.ai/scottclark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 20:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 20:07:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scottclark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New portfolio page]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/scottclark/new-portfolio-page/index.html</link>
             <guid isPermaLink="false">ed34b2d0-5a11-44b2-8528-02447c9bcda3</guid>
             <pubDate>Tue, 27 Oct 2015 20:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[just a title]]></title>
+            <description><![CDATA[<article><h1>just a title</h1><p>just a discription</p></article>]]></description>
+            <link>https://thegrid.ai/scottclark/just-a-title/index.html</link>
+            <guid isPermaLink="false">ea4cd8a8-66a7-4e2f-bf04-c81351699e3a</guid>
+            <pubDate>Tue, 27 Oct 2015 20:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
