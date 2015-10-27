@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Scottclark]]></title>
-        <description><![CDATA[Scottclark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Scott Clark - Design & Digital Creative]]></title>
+        <description><![CDATA[Scott Clark - Design & Digital Creative]]></description>
+        <link>https://thegrid.ai/scottclark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 19:30:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 20:05:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scottclark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New portfolio page]]></title>
+            <description><![CDATA[<article><h1>New portfolio page</h1><p>New Portfolio work</p></article>]]></description>
+            <link>https://thegrid.ai/scottclark/new-portfolio-page/index.html</link>
+            <guid isPermaLink="false">ed34b2d0-5a11-44b2-8528-02447c9bcda3</guid>
+            <pubDate>Tue, 27 Oct 2015 20:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/scottclark/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">8a0817a1-caf6-463d-8e8b-9a34da83a558</guid>
             <pubDate>Tue, 27 Oct 2015 19:30:03 GMT</pubDate>
         </item>
