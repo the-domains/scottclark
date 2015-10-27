@@ -1,0 +1,23 @@
+name: Scottclark
+favicon: null
+layout_spectrum: 0.8711735508404672
+typography_spectrum: 0.13716603117063642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6843454381451011
+  lightness: 0.3698163637891412
+  saturation: 0.8186474307440221
+  rhythmicContrast: 0.25281491270288825
+purpose: []
