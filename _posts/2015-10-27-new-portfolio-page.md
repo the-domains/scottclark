@@ -1,24 +1,24 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Testing grid
-datePublished: '2015-10-27T19:49:43.637Z'
-dateModified: '2015-10-27T19:45:50.563Z'
+datePublished: '2015-10-27T20:05:28.800Z'
+dateModified: '2015-10-27T20:05:22.690Z'
 title: New portfolio page
+sourcePath: _posts/2015-10-27-new-portfolio-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-27-new-portfolio-page.md
-published: true
 url: new-portfolio-page/index.html
-_type: Blurb
+_type: Article
 
 ---
 New Portfolio work
