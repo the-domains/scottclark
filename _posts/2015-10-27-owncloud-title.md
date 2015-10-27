@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: discription
-datePublished: '2015-10-27T21:03:14.620Z'
-dateModified: '2015-10-27T21:03:03.882Z'
+datePublished: '2015-10-27T21:03:48.034Z'
+dateModified: '2015-10-27T21:03:43.717Z'
 author: []
 title: ownCloud title
 authors: []
